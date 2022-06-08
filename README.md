@@ -1,4 +1,5 @@
-README - How to run the code
+# README - How to run the code
+
 Please run this notebook in Google Colab
 
 There are two main components in this notebook:
